@@ -1,0 +1,5 @@
+{
+  "name": "CricParty: IND vs NZ Live",
+  "description": "A real-time co-watching platform for the India vs New Zealand match with synced playback and live chat.",
+  "requestFramePermissions": ["display-capture", "microphone"]
+}
